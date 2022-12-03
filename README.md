@@ -1,4 +1,3 @@
-# Domain infiltration
-Record of my own Domain infiltration study
+# About CVE-2020-1472
 
-Articles with different knowledge points stored in different branches
+自我感觉写的蛮不错的一篇，美中不足的是没有用Wireshark抓一下流量包看，这辈子头一次看了那么多微软文档，简直是麻了。
